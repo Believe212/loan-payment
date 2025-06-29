@@ -1,1 +1,2 @@
-# loan payment
+# Predicting Loan Repayment Behavior Using Machine Learning
+In today’s financial landscape, predicting whether a borrower is likely to repay a loan is crucial for minimizing risk and ensuring the sustainability of lending institutions. This project leverages machine learning techniques to classify loan applicants as either "good" or "bad" lenders based on key financial and behavioral indicators. Using historical credit data, I built a predictive model that helps financial institutions make informed lending decisions, reduce default rates, and improve overall credit management strategies.
